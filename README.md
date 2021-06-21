@@ -22,7 +22,7 @@
 
 <br />
 
-[![Spotify](novatorem-seven-steel.vercel.app)](https://open.spotify.com/user/vnnqm5ith6h98r7q62tnlhhaz?si=ac6fc441fe1a40bf)
+[![Spotify](https://novatorem-lorenzejay.vercel.app/api/spotify)](https://open.spotify.com/user/vnnqm5ith6h98r7q62tnlhhaz?si=ac6fc441fe1a40bf)
 
 ### Language and Tools:
 
