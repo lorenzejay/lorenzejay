@@ -22,7 +22,9 @@
 
 <br />
 
-[![Spotify](https://novatorem-lorenzejay.vercel.app/api/spotify)](https://open.spotify.com/user/vnnqm5ith6h98r7q62tnlhhaz?si=ac6fc441fe1a40bf)
+[![Spotify](https://now-playing-lorenzejay.vercel.app/api/spotify)](https://open.spotify.com/user/vnnqm5ith6h98r7q62tnlhhaz?si=ac6fc441fe1a40bf)
+
+[<img src="https://now-playing-lorenzejay.vercel.app/api/spotify" alt="My spotify" width="350" />](https://open.spotify.com/user/vnnqm5ith6h98r7q62tnlhhaz?si=ac6fc441fe1a40bf)
 
 ### Language and Tools:
 
