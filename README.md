@@ -35,11 +35,13 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
+
 [<img align="left" alt="Next.js" width="26px" src="https://camo.githubusercontent.com/92ec9eb7eeab7db4f5919e3205918918c42e6772562afb4112a2909c1aaaa875/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313630373535343338352f7265706f7369746f726965732f6e6578742d6a732f6e6578742d6c6f676f2e706e67" />][webdevplaylist]
 
 [<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
 
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
+
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
@@ -48,6 +50,7 @@
 [webdevplaylist]: https://open.spotify.com/playlist/3DIjw8eboATMgRN2RC6mz6?si=e8e6ed3b65f34f8e
 [reactplaylist]: https://open.spotify.com/playlist/3DIjw8eboATMgRN2RC6mz6?si=e8e6ed3b65f34f8e
 [cssplaylist]: https://open.spotify.com/playlist/3DIjw8eboATMgRN2RC6mz6?si=e8e6ed3b65f34f8e
+[jsplaylist]: https://open.spotify.com/playlist/3DIjw8eboATMgRN2RC6mz6?si=e8e6ed3b65f34f8e
 [twitter]: https://twitter.com/lorenzejaytech
 [linkedin]: https://www.linkedin.com/in/lorenzehernandez/
 [youtube]: https://www.youtube.com/channel/ucjyobkvhv4dmnuewghcmf7w
