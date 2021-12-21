@@ -1,6 +1,6 @@
 ### Hey there, I'm Lorenze - aka [lorenzejay.dev](https://lorenzejay.dev/)
 
-## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Creator, Developer and lifelong learner!
+## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Creator, Developer and Lifelong Learner!
 
 - 💻 I'm currently working on a a productivity web application called kallo - uses the PERN Stack (PostgreSQL, Express, React and Node.JS)
 - 🤝 I'm open to collaborating with other creators and developers.
