@@ -2,9 +2,9 @@
 
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Creator, Developer and Lifelong Learner!
 
-- 💻 I'm currently working on a a productivity web application called kallo - uses the PERN Stack (PostgreSQL, Express, React and Node.JS)
+- 💻 I'm currently working on a a CRM application for freelancers that simplifies the automation of the marketing funnel. 
 - 🤝 I'm open to collaborating with other creators and developers.
-- 🎯 2021 Goals: Learn Mobile App Development and launch app to the App Store.
+- 🎯 2022 Goals: Explore Web 3 and contribute to open source projects.
 - ⚡ Fun Fact: I have a background in Film and Photography, I love to go on hikes, and I am a productivity enthusiast.  
 
 ### 📫 &nbsp; Connect With Me
