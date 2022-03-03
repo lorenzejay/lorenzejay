@@ -1,8 +1,9 @@
-### Hey there, I'm Lorenze - aka [lorenzejay.dev](https://lorenzejay.dev/)
+### Hey there, I'm Lorenze - aka [lorenzejay.dev](https://lorenzejay.dev/) [![Status for @lorenzejay](https://badge.stateful.com/lorenzejay/status.svg)](https://app.stateful.com/@lorenzejay)
 
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Creator, Developer and Lifelong Learner!
 
-- 💻 I'm currently working on a a CRM application for freelancers that simplifies the automation of the marketing funnel. 
+
+- 💻 Side Project: CRM application for freelance photographers and videographers. 
 - 🤝 I'm open to collaborating with other creators and developers.
 - 🎯 2022 Goals: Explore Web 3 and contribute to open source projects.
 - ⚡ Fun Fact: I have a background in Film and Photography, I love to go on hikes, and I am a productivity enthusiast.  
@@ -24,14 +25,14 @@
 
 [![Spotify](https://now-playing-lorenzejay.vercel.app/api/spotify)](https://open.spotify.com/user/vnnqm5ith6h98r7q62tnlhhaz?si=ac6fc441fe1a40bf)
 
-### Language and Tools:
+<!-- ### Language and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-
+ -->
 <!-- [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist] -->
 <!-- [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist] -->
 
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
+<!-- [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
 [<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
@@ -54,3 +55,4 @@
 [twitter]: https://twitter.com/lorenzejaytech
 [linkedin]: https://www.linkedin.com/in/lorenzehernandez/
 [youtube]: https://www.youtube.com/channel/ucjyobkvhv4dmnuewghcmf7w
+ -->
