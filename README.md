@@ -57,5 +57,3 @@
 [youtube]: https://www.youtube.com/channel/ucjyobkvhv4dmnuewghcmf7w
  -->
  
-## About me in a video format 
-[![About me in a video format](https://img.youtube.com/vi/SCY1p1ISWSo/0.jpg)](https://www.youtube.com/watch?v=SCY1p1ISWSo)
