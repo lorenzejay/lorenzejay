@@ -2,10 +2,14 @@
 
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Creator Developer !
 
-- 🎯 2023 Goals: Speak at a tech conference regarding Frontend Development or Macbook Automation.
-- ⚡ Fun Fact: I have a background in Film and Photography, I love to go on hikes, and I am a productivity enthusiast.  
+- ⚡ Fun Fact: I have a background in Film and Photography, I love to go on hikes, and I am a productivity enthusiast.
+- 🎯 2023 Goals: Speak at a tech conference about Frontend Development or Macbook Automation.
 
-### 📫 &nbsp; Connect With Me
+
+## 📝 Some writing
+Check out my featured blog on Hashbode with 3.5k viewers on [How I automated my macbook to help me get ready for work.](https://lorenzejay.hashnode.dev/how-i-automated-my-macbook-to-help-me-get-ready-for-work) 
+
+## 📫 &nbsp; Connect With Me
 
 <!-- [<img align='left'  alt='lorenzejay' width='22px' src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' />](https://lorenzejay.dev/) -->
 
