@@ -1,11 +1,8 @@
-### Hey there, I'm Lorenze - aka [lorenzejay.dev](https://lorenzejay.dev/) [![Status for @lorenzejay](https://badge.stateful.com/lorenzejay/status.svg)](https://app.stateful.com/@lorenzejay)
+### Hey there, I'm [Lorenze Jay](https://upliftdigitalsolutions.com) [![Status for @lorenzejay](https://badge.stateful.com/lorenzejay/status.svg)](https://app.stateful.com/@lorenzejay)
 
-## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Creator, Developer and Lifelong Learner!
+## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Creator Developer !
 
-
-- 💻 Side Project: CRM application for freelance photographers and videographers. 
-- 🤝 I'm open to collaborating with other creators and developers.
-- 🎯 2022 Goals: Explore Web 3 and contribute to open source projects.
+- 🎯 2023 Goals: Speak at a tech conference regarding Frontend Development or Macbook Automation.
 - ⚡ Fun Fact: I have a background in Film and Photography, I love to go on hikes, and I am a productivity enthusiast.  
 
 ### 📫 &nbsp; Connect With Me
@@ -19,7 +16,6 @@
 <a href="https://www.linkedin.com/in/lorenzehernandez/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="https://twitter.com/lorenzejaytech"><img alt="Twitter" src="https://img.shields.io/badge/twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a> &nbsp;
 <a href="https://www.youtube.com/channel/UCJYobKvhV4dmnUeWgHcmf7w"><img alt="Youtube" src="https://img.shields.io/badge/-youtube_-E4405F?style=flat&logo=youtube&logoColor=white"/></a> &nbsp;
-<a href="mailto:lorenzejaytech@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
 <br />
 
