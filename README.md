@@ -7,7 +7,7 @@
 
 
 ## 📝 Some writing
-Check out my featured blog on Hashbode with 3.5k viewers on [How I automated my macbook to help me get ready for work.](https://lorenzejay.hashnode.dev/how-i-automated-my-macbook-to-help-me-get-ready-for-work) 
+Check out my featured blog on Hashnode with 3.5k views on [How I automated my macbook to help me get ready for work.](https://lorenzejay.hashnode.dev/how-i-automated-my-macbook-to-help-me-get-ready-for-work) 
 
 ## 📫 &nbsp; Connect With Me
 
