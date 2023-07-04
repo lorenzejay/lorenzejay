@@ -23,7 +23,7 @@ Check out my featured blog on Hashnode with 3.5k views on [How I automated my ma
 
 <br />
 
-[![Spotify](https://now-playing-lorenzejay.vercel.app/api/spotify)](https://open.spotify.com/user/vnnqm5ith6h98r7q62tnlhhaz?si=ac6fc441fe1a40bf)
+<!-- [![Spotify](https://now-playing-lorenzejay.vercel.app/api/spotify)](https://open.spotify.com/user/vnnqm5ith6h98r7q62tnlhhaz?si=ac6fc441fe1a40bf) -->
 
 <!-- ### Language and Tools:
 
