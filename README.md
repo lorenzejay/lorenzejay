@@ -1,6 +1,6 @@
 ### Hey there, I'm [Lorenze Jay](https://upliftdigitalsolutions.com) [![Status for @lorenzejay](https://badge.stateful.com/lorenzejay/status.svg)](https://app.stateful.com/@lorenzejay)
 
-## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Creator Developer !
+## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Software Developer !
 
 - ⚡ Fun Fact: I have a background in Film and Photography, I love to go on hikes, and I am a productivity enthusiast.
 - 🎯 2023 Goals: Speak at a tech conference about Frontend Development or Macbook Automation.
