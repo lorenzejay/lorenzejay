@@ -2,9 +2,7 @@
 
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Software Developer !
 
-- ⚡ Fun Fact: I have a background in Film and Photography, I love to go on hikes, and I am a productivity enthusiast.
-- 🎯 2023 Goals: Speak at a tech conference about Frontend Development or Macbook Automation.
-
+## Currently working on [topbarai](https://www.topbarai.com/) - helping professionals leverage the power of LLM's on their desktops without ever having to context switch.
 
 ## 📝 Some writing
 Check out my featured blog on Hashnode with 3.5k views on [How I automated my macbook to help me get ready for work.](https://lorenzejay.hashnode.dev/how-i-automated-my-macbook-to-help-me-get-ready-for-work) 
