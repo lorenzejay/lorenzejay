@@ -3,7 +3,7 @@
 ## <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width="40" align="left"/> I am a Software Developer !
 
 ## 📝 Some writing
-Check out my featured blog on Hashnode with 3.5k views on [How I automated my macbook to help me get ready for work.](https://lorenzejay.hashnode.dev/how-i-automated-my-macbook-to-help-me-get-ready-for-work) 
+Practical Multi Agent Rag Tutorial: [LINK]([https://lorenzejay.hashnode.dev/how-i-automated-my-macbook-to-help-me-get-ready-for-work](http://lorenzejay.dev/articles/practical-agentic-rag)) 
 
 ## 📫 &nbsp; Connect With Me
 
